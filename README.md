@@ -1,4 +1,4 @@
-# alertmanager-validator
+# alertmanager-validator 
 
 [![Build Status](https://ci.devopoly.de/api/badges/lukibahr/alertmanager-validator/status.svg)](https://ci.devopoly.de/lukibahr/alertmanager-validator)
 
